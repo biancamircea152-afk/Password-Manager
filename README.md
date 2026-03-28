@@ -16,7 +16,3 @@ This app uses Python's built-in `json` and `os` libraries:
 
 ## 🚀 Installation & Usage
 Since this project uses only Python's standard libraries, **no extra installations** (like pip) are required!
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/password-manager.git](https://github.com/your-username/password-manager.git)
